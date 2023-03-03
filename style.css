@@ -30,7 +30,7 @@ h4 {
     }
 
 #gotye {
-    animation: spin 1s linear infinite forwards;
+    animation: spin 10s linear infinite forwards;
 }
 
 #gotye.reverse {
