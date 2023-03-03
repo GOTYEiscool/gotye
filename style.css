@@ -1,0 +1,34 @@
+@keyframes spin{
+    0%{
+        transform:rotate(0deg)
+    }
+    100% {
+        transform: rotate(1turn);
+    }
+}
+
+
+h1 {
+Background: white;
+color: pink;
+text-align: left;
+}
+h2 {
+    Background: white;
+    color: rgb(255, 0, 128);
+    text-align: left;
+    }
+h3 {
+    Background: white;
+    color: rgb(182, 186, 248);
+    text-align: left;
+    }
+h4 {
+    Background: white;
+    color: rgb(177, 54, 54);
+    text-align: left;
+    }
+
+    #gotye {
+        animation: spin 1s linear infinite;
+    }
