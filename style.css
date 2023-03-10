@@ -6,6 +6,7 @@
         transform: rotate(1turn);
     }
 }
+p {outline-color:rgb(255, 0, 200);}
 p.double {border-style: double;}
 p.double {outline-style: double;}
 h1 {
