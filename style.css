@@ -6,8 +6,7 @@
         transform: rotate(1turn);
     }
 }
-
-
+p.double {border-style: double;}
 h1 {
 Background: white;
 color: rgb(255, 192, 203);
