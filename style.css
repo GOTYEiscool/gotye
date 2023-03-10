@@ -61,6 +61,7 @@ body, html {
     float: left;
    background-color: rgb(182, 186, 248);
    border-collapse: collapse;
+   text-align: center;
    }
    .rightpane {
     width: 25%;
@@ -77,4 +78,5 @@ body, html {
     border-collapse: collapse;
     background-color: #4da6ff;
     text-align: center;
+    position: relative;
 }
