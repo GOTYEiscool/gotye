@@ -61,7 +61,7 @@ body, html {
     float: left;
    background-color: rgb(182, 186, 248);
    border-collapse: collapse;
-   text-align: center;
+   text-align: justify;
    }
    .rightpane {
     width: 25%;
