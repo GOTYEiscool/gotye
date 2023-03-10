@@ -11,7 +11,7 @@ p {border-color: rgb(255, 0, 200);}
 p.double {border-style: double;}
 p.double {outline-style: double;}
 img {
-    border: 50px solid rgb(255, 0, 200);
+    border: 50px inset rgb(255, 0, 200);
   }
 h1 {
 Background: white;
