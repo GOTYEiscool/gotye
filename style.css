@@ -10,7 +10,7 @@
 
 h1 {
 Background: white;
-color: pink;
+color: rgb(255, 192, 203);
 text-align: left;
 }
 h2 {
@@ -51,7 +51,7 @@ body, html {
     width: 25%;
    height: 100%;
    float: left;
-   background-color: purple;
+   background-color: rgb(255, 192, 203);
    border-collapse: collapse;
    }
    
@@ -59,7 +59,7 @@ body, html {
    width: 50%;
    height: 100%;
     float: left;
-   background-color: green;
+   background-color: rgb(182, 186, 248);
    border-collapse: collapse;
    }
    .rightpane {
@@ -67,7 +67,7 @@ body, html {
     height: 100%;
     position: relative;
     float: right;
-    background-color: orange;
+    background-color: rgb(177, 54, 54);
     border-collapse: collapse;
   }
   
